@@ -1,3 +1,7 @@
+"""
+This code is of Week 5 using python to access web data
+"""
+
 import urllib.request
 import xml.etree.ElementTree as ET
 
